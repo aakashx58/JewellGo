@@ -11,12 +11,12 @@ class JewelleryRepository {
       image: 'https://cdn.shyle.in/wp-content/uploads/2020/11/IMG_9963.jpg',
     ),
     JewelleryModel(
-      name: 'Jhumri Intricate Carved Classic Chandbali',
+      name: 'Mizoya Fish Drop Handpainted Earring',
       description:
-          'An amazing pair of Jhumri Intricate Carved Classic Chandbali. All of our jewelry is Pure silver. Stamped with 92.5',
+          'Mizoya Fish Drop Handpainted Earring. All of our jewelry is in 92.5 silver.',
       price: 19.99,
       image:
-          'https://cdn.shyle.in/wp-content/uploads/2022/03/photo_2022-03-16_11-16-35-900x1167.jpg',
+          'https://cdn.shyle.in/wp-content/uploads/2024/01/mizoya-fish-drop-handpainted-earring-1.jpg',
     ),
     JewelleryModel(
       name: 'Anvaya Three Layered Carved Danglers',
